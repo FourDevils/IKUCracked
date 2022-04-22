@@ -9,7 +9,7 @@ coroutine.wrap(function()
 		workspace.Players:FindFirstChild(ActualHost).Name = "IMetTodoroki"
 	end
 end)()
-getgenv().Settings["host"] = 1815481733 -- ignore part of the bypass
+getgenv().Settings["host"] = 1639493597 -- ignore part of the bypass
 
 local synapse, shithttp = syn and syn.request, http and http.request
 local request = http_request or request or HttpPost or synapse or shithttp
