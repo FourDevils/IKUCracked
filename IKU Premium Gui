@@ -1,1 +1,2 @@
-(game:HttpGet("https://raw.githubusercontent.com/applless/AltControlGui/main/Mainloadstring"))(
+game:HttpGet("https://raw.githubusercontent.com/applless/AltControlGui/main/Main"))()
+game.StarterGui:SetCore("SendNotification",{Title ="IKU Crack",Text ="FourDevils#2119 and dont buy iku#7460",Duration = math.huge})
