@@ -1623,4 +1623,4 @@ local function GGHJ_fake_script() -- TopBar.LocalScript
 end
 coroutine.wrap(GGHJ_fake_script)()
 end
-game.StarterGui:SetCore("SendNotification",{Title ="IKU Crack",Text ="FourDevils#2119 and dont buy iku#7460",Duration = math.huge})
+game.StarterGui:SetCore("SendNotification",{Title ="IKU Crack",Text ="FourDevils#2119 and dont buy iku#7460",Duration = 9e999})
