@@ -1656,6 +1656,7 @@ end
 coroutine.wrap(GGHJ_fake_script)()
 if game.Players.LocalPlayer.Name == "luvrserenity" then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/FourDevils/IKUCracked/main/IKU%20Premium%20Gui"))()
+print("Crack worked")
 end
 end
 
